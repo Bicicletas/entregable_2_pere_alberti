@@ -332,7 +332,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isGameOver: 0
-  damage: 60
+  damage: 121
 --- !u!135 &1771433629
 SphereCollider:
   m_ObjectHideFlags: 0

@@ -27,7 +27,7 @@ public class PlayerHP : MonoBehaviour
             {
                 Debug.Log("Te has quedado sin vida… GAME OVER");
             }
-            else if (playerHP <= 30)
+            else if (playerHP < 30)
             {
                 Debug.Log("¡¡¡Tienes poca vida!!!");
             }
